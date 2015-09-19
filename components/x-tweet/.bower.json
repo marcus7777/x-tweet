@@ -1,0 +1,41 @@
+{
+  "name": "x-tweet",
+  "authors": [
+    "<Ajay Thomas <ajaythomas123@gmail.com>>"
+  ],
+  "description": "A custom polymer element for embedding tweets.",
+  "main": "x-tweet.html",
+  "keywords": [
+    "polymer",
+    "web-component",
+    "web-components",
+    "twitter",
+    "tweet",
+    "embed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#~1.1.3"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#~1.0.5"
+  },
+  "homepage": "https://github.com/ajaythomas123/x-tweet",
+  "_release": "98cd61105c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "98cd61105c6d5d0b058ed06753ecde81c5d18c28"
+  },
+  "_source": "git://github.com/ajaythomas123/x-tweet.git",
+  "_target": "master",
+  "_originalSource": "ajaythomas123/x-tweet",
+  "_direct": true
+}
